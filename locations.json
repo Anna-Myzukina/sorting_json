@@ -1,0 +1,94 @@
+{
+    "sttations" : [
+        {
+            "address" : "",
+            "id" : "1",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        },
+        {
+            "address" : "",
+            "id" : "2",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        },
+        {
+            "address" : "",
+            "id" : "3",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        },
+        {
+            "address" : "",
+            "id" : "4",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        },
+        {
+            "address" : "",
+            "id" : "5",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        },
+        {
+            "address" : "",
+            "id" : "6",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        },
+        {
+            "address" : "",
+            "id" : "7",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        },
+        {
+            "address" : "",
+            "id" : "8",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        },
+        {
+            "address" : "",
+            "id" : "9",
+            "workingTime" : "",
+            "image" : "",
+            "lat" : "",
+            "lng" : "",
+            "name" : "",
+            "region" : ""
+        }
+    ]
+}
