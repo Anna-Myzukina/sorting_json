@@ -1,44 +1,44 @@
 {
-    "sttations" : [
+    "stations" : [
         {
-            "address" : "",
-            "id" : "1",
-            "workingTime" : "",
-            "image" : "",
-            "lat" : "",
-            "lng" : "",
-            "name" : "",
-            "region" : ""
+            "address" : "Skogvegen 4, 6480 Aukrasanden",
+            "id": "1",
+            "workingTime": "",
+            "image": "",
+            "lat": "62.79344",
+            "lng": "6.91505",
+            "name": "Falkhytten v/Spar",
+            "region": "Aukra"
         },
         {
-            "address" : "",
-            "id" : "2",
-            "workingTime" : "",
-            "image" : "",
-            "lat" : "",
-            "lng" : "",
-            "name" : "",
-            "region" : ""
+            "address" : "Aukraringen 2, 6480 Aukra",
+            "id": "2",
+            "workingTime": "",
+            "image": "",
+            "lat": "62.80887",
+            "lng": "6.88678",
+            "name": "Falkhytten v/Coop",
+            "region": "Aukra"
         },
         {
-            "address" : "",
+            "address" : "Rishaugvegen 96",
             "id" : "3",
             "workingTime" : "",
             "image" : "",
-            "lat" : "",
-            "lng" : "",
-            "name" : "",
-            "region" : ""
+            "lat" : "62.84446",
+            "lng" : "6.82361",
+            "name" : "Rothaugen gjenvinningsstasjon",
+            "region" : "Aukra"
         },
         {
-            "address" : "",
+            "address" : "Hollingen, 6409",
             "id" : "4",
             "workingTime" : "",
             "image" : "",
-            "lat" : "",
-            "lng" : "",
-            "name" : "",
-            "region" : ""
+            "lat" : "62.78035",
+            "lng" : "6.99125",
+            "name" : "Hollingen hyttepunkt",
+            "region" : "Aukra"
         },
         {
             "address" : "",
@@ -48,47 +48,47 @@
             "lat" : "",
             "lng" : "",
             "name" : "",
-            "region" : ""
+            "region" : "Aukra"
         },
         {
-            "address" : "",
+            "address" : "Coop Extra hollingen, 6409 Hollingen",
             "id" : "6",
             "workingTime" : "",
             "image" : "",
-            "lat" : "",
-            "lng" : "",
-            "name" : "",
-            "region" : ""
+            "lat" : "62.78188",
+            "lng" : "6.99050",
+            "name" : "Hollingbygg",
+            "region" : "Aukra"
         },
         {
-            "address" : "",
+            "address" : "Tausahaugvegen 2 Molde",
             "id" : "7",
             "workingTime" : "",
             "image" : "",
-            "lat" : "",
-            "lng" : "",
-            "name" : "",
-            "region" : ""
+            "lat" : "62.78262",
+            "lng" : "6.99420",
+            "name" : "Hollingen",
+            "region" : "Molde"
         },
         {
-            "address" : "",
+            "address" : "Trafovegen 85, 6409 Molde",
             "id" : "8",
             "workingTime" : "",
             "image" : "",
-            "lat" : "",
-            "lng" : "",
-            "name" : "",
-            "region" : ""
+            "lat" : "62.78725",
+            "lng" : "7.01242",
+            "name" : "Jendem v/Joker",
+            "region" : "Molde"
         },
         {
-            "address" : "",
+            "address" : "Aureosen, 6408",
             "id" : "9",
             "workingTime" : "",
             "image" : "",
-            "lat" : "",
-            "lng" : "",
-            "name" : "",
-            "region" : ""
+            "lat" : "62.82070",
+            "lng" : "7.09571",
+            "name" : "Aureosen",
+            "region" : "Molde"
         }
     ]
 }
